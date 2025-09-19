@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ANKURPAT
 - 👀 I’m interested in WebDev and Ops
-- 🌱 I’m currently learning Ops
-- 💞️ I’m looking to collaborate on WebDev
+- 🌱 I’m currently learning AI Ops
 - 📫 How to reach me ...
 
 <!---
