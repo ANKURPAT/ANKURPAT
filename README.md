@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ANKURPAT
-- 👀 I’m interested in WebDev and Ops
-- 🌱 I’m currently learning AI Ops
-- 📫 How to reach me ...
+# Ankur Patel
 
-<!---
-ANKURPAT/ANKURPAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevSecOps and security operations engineer with 10 years at IBM.
+Currently moving into ML security and MLOps.
+
+More on https://ankurpat.github.io/
